@@ -1,0 +1,23 @@
+{
+  "name": "rolepanel",
+  "version": "0.1.0",
+  "description": "役職パネルv3互換のオープンソースDiscordBot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/owasikohu/rolepanel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owasikohu/rolepanel/issues"
+  },
+  "homepage": "https://github.com/owasikohu/rolepanel#readme",
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  }
+}
